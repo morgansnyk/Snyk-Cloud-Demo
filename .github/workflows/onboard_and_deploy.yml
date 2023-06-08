@@ -1,4 +1,3 @@
-
 name: 'Build and Deploy Demo Environment'
 on:
   push:
