@@ -54,6 +54,7 @@ jobs:
     - name: Onboard Cloud Environment to Snyk Cloud
       shell: bash
       run: |
+        ls
         mkdir temp
         cd temp
         curl -X POST \
